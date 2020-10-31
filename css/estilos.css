@@ -3,7 +3,7 @@
 	padding:0;
 }
 body{
-	background:rgb(31, 132, 136);
+	background:rgb(136, 97, 141);
 }
 header, .main, footer{
 	
@@ -113,10 +113,16 @@ a{
 }
 
 .informacion{
-	background-color: rgb(22, 56, 19);
+	background-color:rgb(25, 37, 48);
+	padding: 30px  0px;
 	
 }
 .lookinfor{
 	margin:opx 45px ;
 	
+}
+
+.informacione{
+	background-color:rgb(25, 37, 48);
+	padding: 10px  0px;
 }
